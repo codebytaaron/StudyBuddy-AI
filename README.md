@@ -1,5 +1,3 @@
-# StudyBuddy-AI
-A lightweight AI-powered study assistant that helps students review topics, quiz themselves, and simplify notes.
 # StudyBuddy AI 📚
 
 A simple AI-powered study helper built in Python.
