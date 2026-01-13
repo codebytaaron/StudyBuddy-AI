@@ -1,28 +1,27 @@
-# StudyBuddy AI 📚
+# StudyBuddy AI
 
-A simple AI-powered study helper built in Python.
+StudyBuddy AI is a Python-based AI study assistant designed to support learning and review.
 
-## Features
-- Explains topics in simple terms
-- Helps with memorization
-- Generates quiz-style answers
-- Runs in the terminal
+## Overview
 
-## Setup
-1. Clone the repo
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Add your OpenAI API key in main.py
-4. Run:
-   python main.py
+The tool assists with explaining topics, reinforcing understanding, and generating study-oriented responses based on user input.
 
-## Example Prompts
-- Explain Manifest Destiny simply
-- Quiz me on the Progressive Era
-- Summarize the Monroe Doctrine in 3 bullets
+## Usage Notice
 
-## Future Ideas
-- Flashcard mode
-- Timed quizzes
-- Note upload
-- Web app UI
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, or redistribute this project without contacting me first**.
+
+If you are interested in using this project, extending it, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
+
+## Requirements
+
+- Python
+- OpenAI API key
+
+## Topics
+
+ai  
+education  
+study  
+python  
